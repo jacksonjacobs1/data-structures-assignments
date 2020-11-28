@@ -1,0 +1,6 @@
+1.
+2.
+3. Yes. theoretically n=8000 should have a runtime about double that of n=4000.
+my algorithm's average time at n=4000 was 571433 and at n=8000 was 1299133, a little more than double.
+4.
+5. Insertion sort is preferable when the array is sorted or close to sorted. The complexity will approach O(n)
